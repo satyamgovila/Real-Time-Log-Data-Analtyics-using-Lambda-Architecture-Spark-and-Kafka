@@ -65,7 +65,11 @@ The real-time latest data will be stored in Cassandra and can be visualised on l
 
 
 >> sudo yum install docker 
+
+
 <img width="1108" alt="Screenshot 2022-07-14 at 11 55 58 PM" src="https://user-images.githubusercontent.com/25201417/179055699-76804300-c9f4-4542-aed2-ee163ed33a7d.png">
+
+
 >> sudo systemctl start docker
 >> List Docker containers running: docker ps
 
