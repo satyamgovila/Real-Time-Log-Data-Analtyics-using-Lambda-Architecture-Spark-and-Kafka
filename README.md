@@ -1,4 +1,4 @@
-# Real Time Log Data Analtyics using Lambda Architure , Spark and Kafka
+# Real Time Log Data Analtyics using Lambda Architecture  , Spark and Kafka
 
 ### Log Analysis
 
