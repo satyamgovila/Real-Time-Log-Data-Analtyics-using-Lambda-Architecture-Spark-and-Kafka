@@ -37,8 +37,8 @@ Link:  https://www.kaggle.com/datasets/souhagaa/nasa-access-log-dataset-1995
 
 ### Architecture
 
+<img width="989" alt="Screenshot 2022-07-19 at 2 34 32 AM" src="https://user-images.githubusercontent.com/25201417/179617142-0adb9b5a-bb51-4893-b6b4-a47c07e896f8.png">
 
-<img width="657" alt="Picture 5" src="https://user-images.githubusercontent.com/25201417/179616857-794ef057-d5a4-4675-be16-c9ffd9660a72.png">
 
 
 
