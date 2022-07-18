@@ -35,7 +35,12 @@ Link:  https://www.kaggle.com/datasets/souhagaa/nasa-access-log-dataset-1995
 * Dash
 * Jupyter Lab
 
-### Architecture (add Diagram)
+### Architecture
+
+
+<img width="657" alt="Picture 5" src="https://user-images.githubusercontent.com/25201417/179616857-794ef057-d5a4-4675-be16-c9ffd9660a72.png">
+
+
 
 
 Lambda Architecture provides the feature to process real time and batch data in the same pipeline. As shown in the diagram, it has 3 different layers namely Speed Layer , Batch Layer and Serving Layer. 
