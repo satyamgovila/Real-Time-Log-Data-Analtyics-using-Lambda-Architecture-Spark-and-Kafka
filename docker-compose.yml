@@ -7,7 +7,7 @@ volumes:
     driver: local
 services:
   jupyterlab:
-    image: pavansrivathsa/jupyterlab
+    image: satyamgovila/jupyterlab
     hostname: JUPYTERLAB
     container_name: jupyterlab
     ports:
@@ -17,7 +17,7 @@ services:
     volumes:
       - shared-workspace:/opt/workspace
   spark-master:
-    image: pavansrivathsa/spark-master
+    image: satyamgovila/spark-master
     hostname: SPARK-MASTER
     container_name: spark-master
     healthcheck:
@@ -90,7 +90,7 @@ services:
   nifi:
     hostname: NiFi
     container_name: nifi
-    image: pavansrivathsa/nifi
+    image: satyamgovila/nifi
     ports:
       - 2080:2080
     environment:
